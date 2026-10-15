@@ -1,16 +1,13 @@
-## Hi there 👋
+## hello from Singapore, i'm alphascopeus 👋
 
-<!--
-**alphascopeus/alphascopeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data enthusiast turning messy datasets into clear, actionable stories. Based in Singapore.
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I debug faster with music on
+- 🌱 Learning Python
+- 🌍 Based in Singapore
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alphascopeus&hide_border=true&theme=highcontrast" alt="Commit streak" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=alphascopeus&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/DuckDB-f778ba?style=for-the-badge&logoColor=white" alt="DuckDB" /> <img src="https://img.shields.io/badge/NumPy-f778ba?style=for-the-badge&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-f778ba?style=for-the-badge&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Python-f778ba?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-f778ba?style=for-the-badge&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/SQL-f778ba?style=for-the-badge&logoColor=white" alt="SQL" />
